@@ -1,0 +1,22 @@
+
+# Node.js
+frontend/node_modules/
+frontend/npm-debug.log*
+
+# Python
+.env/
+env/
+__pycache__/
+*.py[cod]
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editors
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
